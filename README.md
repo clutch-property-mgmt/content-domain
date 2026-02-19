@@ -46,7 +46,7 @@ Shared CMS domain models for PHP SSR apps. Provides pure, framework-agnostic ent
 ## Install
 
 ```bash
-composer require your-vendor/content-domain
+composer require clutch-property-mgmt/content-domain
 ```
 
 > Requires PHP 8.2+ and [`phpolar/model`](https://github.com/phpolar/model).
