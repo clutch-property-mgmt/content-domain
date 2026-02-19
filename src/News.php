@@ -1,6 +1,6 @@
 <?php
 
-namespace ClutchPropertyMgmt\StoreFront;
+namespace ClutchPropertyMgmt\ContentDomain;
 
 final class News
 {

@@ -1,0 +1,19 @@
+{
+    "name": "clutch-property-mgmt/content-domain",
+    "description": "Shared CMS domain models for PHP SSR apps. Provides pure, framework-agnostic entities (Page, PageSection, Review, SeoMeta, Navigation, etc.) with attribute-based validation via [phpolar/model]. Designed for Clean Architecture: no infrastructure, no PDO—just content-focused domain objects.",
+    "type": "library",
+    "require": {
+        "phpolar/model": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "ClutchPropertyMgmt\\ContentDomain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eric Fortmeyer",
+            "email": "e.fortmeyer@gmail.com"
+        }
+    ]
+}

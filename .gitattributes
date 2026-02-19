@@ -1,0 +1,9 @@
+/CHANGELOG.md               export-ignore
+/README.md                  export-ignore
+/.pre-commit-config.yaml    export-ignore
+/.gitignore                 export-ignore
+/.gitattributes             export-ignore
+/.cz.toml                   export-ignore
+/composer.json              export-ignore
+/composer.lock              export-ignore
+
