@@ -4,6 +4,7 @@ namespace ClutchPropertyMgmt\ContentDomain;
 
 final class PageSection
 {
+    public int $id;
     public int $page_id;
     public string $key;
     public string $title;
