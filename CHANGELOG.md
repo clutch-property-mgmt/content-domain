@@ -1,3 +1,5 @@
+# Content Domain Change Log
+
 ## 1.0.1 (2026-02-18)
 
 ### Fix
