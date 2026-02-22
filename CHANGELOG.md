@@ -1,5 +1,11 @@
 # Content Domain Change Log
 
+## 1.0.2 (2026-02-22)
+
+### Fix
+
+- add missing id fields
+
 ## 1.0.1 (2026-02-18)
 
 ### Fix
