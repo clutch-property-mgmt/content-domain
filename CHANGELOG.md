@@ -1,5 +1,11 @@
 # Content Domain Change Log
 
+## 1.1.0 (2026-02-22)
+
+### Feat
+
+- add validation
+
 ## 1.0.2 (2026-02-22)
 
 ### Fix
