@@ -11,11 +11,13 @@ final class Page extends AbstractModel
 {
     #[PrimaryKey]
     public int $id;
-    #[Required]
-    #[MaxLength(30)]
-    public string $slug;
+
     #[Required]
     #[MaxLength(150)]
+    public string $slug;
+
+    #[Required]
+    #[MaxLength(200)]
     public string $title;
     /**
      * @var PageSection[] $sections
