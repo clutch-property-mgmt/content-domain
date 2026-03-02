@@ -3,6 +3,7 @@
 namespace ClutchPropertyMgmt\ContentDomain;
 
 use Phpolar\Model\AbstractModel;
+use Phpolar\Model\Hidden;
 use Phpolar\Model\Label;
 use Phpolar\Model\PrimaryKey;
 use Phpolar\Validators\Max;
@@ -13,6 +14,7 @@ use Phpolar\Validators\Required;
 final class PageSection extends AbstractModel
 {
     #[PrimaryKey]
+    #[Hidden]
     public int $id;
 
     #[Required]
