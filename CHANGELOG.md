@@ -1,5 +1,11 @@
 # Content Domain Change Log
 
+## 1.3.0 (2026-03-01)
+
+### Feat
+
+- add hidden field attribute
+
 ## 1.2.0 (2026-02-28)
 
 ### Feat
