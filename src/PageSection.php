@@ -45,7 +45,7 @@ final class PageSection extends AbstractModel
 
     #[Required]
     #[Label("Is Visible")]
-    public bool $is_visible;
+    public bool $is_visible = false;
 
     #[Required]
     #[Max(10_000)]
