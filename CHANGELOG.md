@@ -1,5 +1,11 @@
 # Content Domain Change Log
 
+## 1.3.1 (2026-03-03)
+
+### Fix
+
+- **PageSection**: add a default value for is_visible
+
 ## 1.3.0 (2026-03-01)
 
 ### Feat
