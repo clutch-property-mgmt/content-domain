@@ -1,5 +1,11 @@
 # Content Domain Change Log
 
+## 1.3.2 (2026-03-17)
+
+### Fix
+
+- **Review**: remove superfluous attribute, add labels to author and body properties
+
 ## 1.3.1 (2026-03-03)
 
 ### Fix
